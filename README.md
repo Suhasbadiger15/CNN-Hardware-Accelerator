@@ -4,7 +4,7 @@ The design includes pipelined hardware modules for Convolution, ReLU activation,
 
 ***Features***
 
-3×3 Convolution hardware architecture
+6×6 Convolution hardware architecture
 
 ReLU activation hardware implementation
 
