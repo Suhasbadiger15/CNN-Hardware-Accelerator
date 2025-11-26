@@ -15,3 +15,14 @@ ReLU activation hardware implementation
 Output quantization to reduce bit-width
 
 Pipelined and modular structure for high throughput
+
+
+**Applications**
+
+Real-time video analytics
+
+Embedded AI vision
+
+Edge & IoT inference acceleration
+
+Robotics and surveillance systems
